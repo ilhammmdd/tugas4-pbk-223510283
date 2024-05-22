@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      audioSrc: './public/music.mp3' type="audio/mpeg",
+      audioSrc: './public/music.mp3',
     };
   },
   methods: {
